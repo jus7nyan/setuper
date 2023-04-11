@@ -1,5 +1,5 @@
 #! /bin/bash
-su
+
 apt update
 apt upgrade
 cp ./source.list /etc/apt/source.list
